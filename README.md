@@ -1,6 +1,6 @@
 <h1 align="center">Mineflayer Pathfinding Bot Example</h1>
 <br>
-<p>Pathfinding Bot</p>
+<p>Pathfinding Bot For Series</p>
 
 ```javascript
 const mineflayer = require('mineflayer')
