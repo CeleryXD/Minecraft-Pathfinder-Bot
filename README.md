@@ -1,5 +1,6 @@
-<h1 align="center">Mineflayer Pathfinding Bot</h1>
+<h1 align="center">Mineflayer Pathfinding Bot Example</h1>
 <br>
+<p>Pathfinding Bot</p>
 
 ```javascript
 const mineflayer = require('mineflayer')
@@ -12,7 +13,6 @@ How the bot works:
     host is the ip of the server,
     port is the port of the server, (needs to be specific if the server is not using the default port which is 25565)
     username is the username of the bot, (can be anything if the bot is cracked)
-    auth is the method of logging in, offline means the bot is cracked else its a premium account
 */
 
 // self explanatory
